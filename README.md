@@ -1,6 +1,12 @@
 ## RTL8812AU/21AU and RTL8814AU Wireless drivers
 Only for use with Linux & Android
 
+
+# THESE DRIVERS IS DEPRECATED.
+# Use the mac80211 drivers over at [https://github.com/lwfinger/rtw88](https://github.com/lwfinger/rtw88)
+
+
+
 [![Monitor mode](https://img.shields.io/badge/monitor%20mode-working-brightgreen.svg)](#)
 [![Frame Injection](https://img.shields.io/badge/frame%20injection-working-brightgreen.svg)](#)
 [![GitHub version](https://raster.shields.io/badge/version-v5.6.4.2-lightgrey.svg)](#)
